@@ -1,1 +1,19 @@
-[]
+[
+ {
+  "id": "2026-11-11-214556-feed",
+  "path": "saves/2026/11/2026-11-11-214556-feed",
+  "type": "selection",
+  "title": "Feed",
+  "url": "https://www.linkedin.com/feed/",
+  "site": "linkedin.com",
+  "saved": "2026-11-11T21:45:56+05:30",
+  "summary": "Claude AI Product Owner/ SME @ Cushman & Wakefield (F500) | Enterprise AI Rollout Strategy & Forward Deployed Engineering | Host, Ready Set Do Podcast (130+ eps)",
+  "tags": [
+   "agent",
+   "kafka",
+   "rag"
+  ],
+  "snippets": [],
+  "highlight": "Learn how to build AI agents with Claude Code and Codex in free MIT course.\n\nIf you ship with Claude Code or Codex without coding skills, MIT’s updated Missing Semester course is for you.\n\n9 classes on dev tools:\n\n1\\ The terminal: talking to your computer by typing commands\nhttps://lnkd.in/dh7779Vg\n\n2\\ Getting comfortable in the terminal: running and managing tasks\nhttps://lnkd.in/dH9AMYJb\n\n3\\ Setting up your workspace: the editor and tools where code gets written\nhttps://lnkd.in/dcsjy5z6\n\n4\\ Fi"
+ }
+]
